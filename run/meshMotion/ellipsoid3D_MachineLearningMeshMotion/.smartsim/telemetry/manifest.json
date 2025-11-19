@@ -12,8 +12,8 @@
   },
   "runs": [
     {
-      "run_id": "bad210e",
-      "timestamp": 1762791170470600126,
+      "run_id": "94f68d2",
+      "timestamp": 1763362663040086921,
       "model": [],
       "orchestrator": [
         {
@@ -29,15 +29,15 @@
               "port": 8000,
               "cluster": false,
               "conf_file": null,
-              "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/bad210e/database/orchestrator/orchestrator_0/orchestrator_0.out",
-              "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/bad210e/database/orchestrator/orchestrator_0/orchestrator_0.err",
+              "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/94f68d2/database/orchestrator/orchestrator_0/orchestrator_0.out",
+              "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/94f68d2/database/orchestrator/orchestrator_0/orchestrator_0.err",
               "memory_file": "",
               "client_file": "",
               "client_count_file": "",
               "telemetry_metadata": {
-                "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/bad210e/database/orchestrator/orchestrator_0",
+                "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/94f68d2/database/orchestrator/orchestrator_0",
                 "step_id": null,
-                "task_id": "11621",
+                "task_id": "6365",
                 "managed": false
               }
             }
@@ -47,8 +47,8 @@
       "ensemble": []
     },
     {
-      "run_id": "deb02bd",
-      "timestamp": 1762791170715983565,
+      "run_id": "5934819",
+      "timestamp": 1763362663282741792,
       "model": [
         {
           "name": "ellipsoid3D_MachineLearningMeshMotionInput",
@@ -76,21 +76,21 @@
           },
           "colocated_db": {},
           "telemetry_metadata": {
-            "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/deb02bd/model/ellipsoid3D_MachineLearningMeshMotionInput",
+            "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/5934819/model/ellipsoid3D_MachineLearningMeshMotionInput",
             "step_id": null,
-            "task_id": "11807",
+            "task_id": "6557",
             "managed": false
           },
-          "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/deb02bd/model/ellipsoid3D_MachineLearningMeshMotionInput/ellipsoid3D_MachineLearningMeshMotionInput.out",
-          "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/deb02bd/model/ellipsoid3D_MachineLearningMeshMotionInput/ellipsoid3D_MachineLearningMeshMotionInput.err"
+          "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/5934819/model/ellipsoid3D_MachineLearningMeshMotionInput/ellipsoid3D_MachineLearningMeshMotionInput.out",
+          "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/5934819/model/ellipsoid3D_MachineLearningMeshMotionInput/ellipsoid3D_MachineLearningMeshMotionInput.err"
         }
       ],
       "orchestrator": [],
       "ensemble": []
     },
     {
-      "run_id": "59188bc",
-      "timestamp": 1762791170936273688,
+      "run_id": "0cb3493",
+      "timestamp": 1763362663487068668,
       "model": [
         {
           "name": "ml_model_training",
@@ -117,13 +117,13 @@
           },
           "colocated_db": {},
           "telemetry_metadata": {
-            "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/59188bc/model/ml_model_training",
+            "status_dir": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/0cb3493/model/ml_model_training",
             "step_id": null,
-            "task_id": "11839",
+            "task_id": "6589",
             "managed": false
           },
-          "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/59188bc/model/ml_model_training/ml_model_training.out",
-          "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/59188bc/model/ml_model_training/ml_model_training.err"
+          "out_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/0cb3493/model/ml_model_training/ml_model_training.out",
+          "err_file": "/home/jin/OpenFOAM/openfoam-smartsim/run/meshMotion/ellipsoid3D_MachineLearningMeshMotion/.smartsim/telemetry/ellipsoid3D_MachineLearningMeshMotion/0cb3493/model/ml_model_training/ml_model_training.err"
         }
       ],
       "orchestrator": [],
